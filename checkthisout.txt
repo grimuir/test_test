@@ -12,3 +12,5 @@ what what
 here are a few changes that you should have a look at. 
 
 perhaps this is too complicated. perhaps just to use dreamweaver for SVC would be a better idea?
+
+So then, would we have to have the dreamweaver local copy work on Github and then any changes would be picked up by Github which would then send it off to the server?
