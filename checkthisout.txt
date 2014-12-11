@@ -17,4 +17,5 @@ So then, would we have to have the dreamweaver local copy work on Github and the
 
 so what exactly is a branch then? I thought they could be actual different repositories or at least different versions of the same file?
 
+Ok so this is on the new branch. now the new branch is something of a new thing - it delivers new content while also allowing for changes and differences betweent the file.s 
 +=====+
